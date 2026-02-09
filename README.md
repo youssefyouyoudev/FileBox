@@ -1,4 +1,4 @@
-![FileBox](public/images/icon.png)
+<!-- ![FileBox](public/images/icon.png) -->
 
 # FileBox
 
