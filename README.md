@@ -1,4 +1,4 @@
-![FileBox](public/images/filebox-logo.svg)
+![FileBox](public/images/icon.png)
 
 # FileBox
 
